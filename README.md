@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ume-Aiman</h1>
 <h3 align="center">A passionate Computer Science Student from Pakistan</h3>
+![Coding Girl](https://github.com/UmyAiman/UmyAiman/blob/main/coding-girl.gif?raw=true)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umyaiman&label=Profile%20views&color=0e75b6&style=flat" alt="umyaiman" /> </p>
