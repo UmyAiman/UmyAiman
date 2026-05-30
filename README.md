@@ -24,7 +24,7 @@ Fresh CS graduate with hands-on experience building full-stack web applications 
 - 💡 Passionate about building real-world web apps that solve actual problems
 - 📚 Currently deepening my knowledge in system design and cloud deployment
 - 💬 Ask me about **Node.js**, **REST APIs**, or **JWT authentication**
-- 📫 Reach me at: **[your-email@gmail.com]** ← *(replace with your email)*
+- 📫 Reach me at: **[aimanume910@gmail.com]** 
 
 ---
 
